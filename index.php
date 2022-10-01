@@ -124,7 +124,7 @@ $val = $var-19;
         </div>
    
         <?php  }?>
-        <table style="text-align:left">
+        <table  style="text-align:left;margin-top:-67px;page-break-after: always;">
           <tr>
             <th>তারিখ:</th>
             <th>পরীক্ষকের পূর্ণ নাম</th>
